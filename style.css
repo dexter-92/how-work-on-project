@@ -1,0 +1,11 @@
+.cover {
+    display: flex;
+    background-image: url(./images/background.jpg);
+    min-height: 740px;
+    width: 100%;
+    align-items: center;
+}
+
+.cover:hover:before {
+
+}
